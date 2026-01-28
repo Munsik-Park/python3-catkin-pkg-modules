@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# SPDX-FileCopyrightText: 2012 Willow Garage, Inc.
+# SPDX-License-Identifier: BSD-3-Clause
+
 import os
 
 from setuptools import setup

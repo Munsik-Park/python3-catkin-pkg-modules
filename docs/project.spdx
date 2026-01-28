@@ -1,0 +1,471 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+SPDXID: SPDXRef-DOCUMENT
+DocumentName: python3-catkin-pkg-modules
+DocumentNamespace: http://spdx.org/spdxdocs/spdx-v2.1-b97b326b-7f9a-40fc-ab61-32175dfa97f2
+Creator: Person: Anonymous ()
+Creator: Organization: Anonymous ()
+Creator: Tool: reuse-6.2.0
+Created: 2026-01-28T03:35:18Z
+CreatorComment: <text>This document was created automatically using available reuse information consistent with REUSE.</text>
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-bf17fbbe6718c6819825b749fb6a40b2
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-517f703177b6cb9f818f72177ae19a54
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-5890369c42f2e2a2c7a2a39878b04f4a
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-58f7fba32397295da77ffd3696b065cc
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-8689c858d6cbef38a801e3c2d53c6a4a
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-0ec4b93d685c6192ae2e6779cb0ec713
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-528559ba2b2159d3c90d5e3c26765e02
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-99a5a66162efa444605eecabecd50087
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-78c47c4e6d4f0d08eb837c950cde8b86
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-b853c59d0ee8d8a009171fdbbcbeaaf9
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-f5bb81d757ccd68f20699174efee17d6
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-1fbc8956c9790ccb9eb02597eccb6e10
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-c9f406e738d02a268e58d8aaf4efa010
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-5512987d49799d9065f74056fb6439f3
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-1b6162ba78bb4054745213677ac0f82d
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-8da4db96327b0f1db334fa68099be51f
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-954a09ac52358616219f61d765e5c3da
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-6ba6c25400229330d72dbc4c4471c4bf
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-cf038ad874d6b5cc134b7800a5fe4e23
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-3f60b1623786c566df26e6a36f971011
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-96af245379f3ee4f24fdf7416a6b2b33
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-8debad4501ae24ea569bc5ec12cc0e24
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-60e1274d59cf20b586ac04ae484de8d4
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-07a5962dc63635caa91187af59b53e9c
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-86ab91abd37e0aeb628d083cbd5c68da
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-5bbc823d180d822d54192e8ac78284bd
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-0066a21653c3770e151fc5634afc7631
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-11915c64a5bdb22d07a6fd918fd4cd4b
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-6d91b3e3c8eca1c0a8f52afa1f91b7b2
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-9f1362abe37743013468ff82e8b3d44d
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-a17ab03eff3679ad4a5fd0a2ee95e3d8
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-2d6283475df84655630fe3c32d9bb6af
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-ba0b225858b17cd3556e4957ad4e78a4
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-2a1b4c4f1ffa41a6ec186b9a80088894
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-30d6ca6a527b8bbb7c22bfd38276febf
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-a0e2faf263a4d60c8a3d5a83e88c4e0d
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-15bc1c955beccdfb0cc3c38f4f26b84f
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-1fc8bb2c69fefe4a3dc1872a771c4316
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-d700ee06b426ad05383aa81e70f0fc10
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-740402eb2ca9e76d949d97ac1325cdc2
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-32a5595ba251e917d55bb256109e1e22
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-7b12a1180876e5cf25f600cfb579bd4c
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-4b3577e927b209b0a89fea696d3f358e
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-efd41a34b45ddd127f0a3f81e7b7bd10
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-1aba29683c636303bf560185662d76ad
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-5f27946e3f57b9f006c4ca4086b22d6b
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-b56ede1e6355482ebbd6e22cd04f7e4e
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-c019398a80d575ecfb70a57c67198261
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-735434d6701fa475c1c72b2699f2c76e
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-a8522e24eb647998ed9399349e7b0099
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-8741b1b1e797321c855c9c687cb0e9d5
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-92eacd912157797ddff591f9623eeaec
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-dd8f19c156a58f41ff7771452034515e
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-cc3e826db8ac3e521cde408402fd56ee
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-14c83f541474fc4c4a1cac2f6f2f82b4
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-6188ec4ebc8e6ca52c3e5bc7e1a1d0c5
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-34d9a1d4cd0edfd341559930d01f2aa2
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-309d6c208344cfc7cc4d2ce5e1790305
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-a213f55bfbfb426b4c4ad74fbb886d52
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-b9faf537e3e7f18a2f0c827ef9150e0e
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-df6a331aaaef8b268411601510269d83
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-f08fda9fb09c164d3eaf94ef67c9e5a4
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-ae6baeebf9e33a865d9ebf7998422cb1
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-1af7cfa9086884cc69754afecc6aeb30
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-094e8f216dec85b82f8cca5a94cd906e
+
+FileName: ./.github/workflows/reuse.yml
+SPDXID: SPDXRef-bf17fbbe6718c6819825b749fb6a40b2
+FileChecksum: SHA1: ceea0da95f0d3b239fdc459a837885687ef7c7b7
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./.pc/.quilt_patches
+SPDXID: SPDXRef-517f703177b6cb9f818f72177ae19a54
+FileChecksum: SHA1: f9b45dee55b5a3eb6fd9fd81b77c1a8e446be60b
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./.pc/.quilt_series
+SPDXID: SPDXRef-5890369c42f2e2a2c7a2a39878b04f4a
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./.pc/.version
+SPDXID: SPDXRef-58f7fba32397295da77ffd3696b065cc
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./PKG-INFO
+SPDXID: SPDXRef-8689c858d6cbef38a801e3c2d53c6a4a
+FileChecksum: SHA1: a77717ed62dc36ec788550a19b52abc0e8de31b4
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./README.rst
+SPDXID: SPDXRef-0ec4b93d685c6192ae2e6779cb0ec713
+FileChecksum: SHA1: c99a7587abed2d7a1696f13588e6f6d9d34a3805
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./debian/changelog
+SPDXID: SPDXRef-528559ba2b2159d3c90d5e3c26765e02
+FileChecksum: SHA1: 3bdd5fe9a9010627f6188e2dd24fac4b3f72a371
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./debian/compat
+SPDXID: SPDXRef-99a5a66162efa444605eecabecd50087
+FileChecksum: SHA1: b6abd567fa79cbe0196d093a067271361dc6ca8b
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./debian/control
+SPDXID: SPDXRef-78c47c4e6d4f0d08eb837c950cde8b86
+FileChecksum: SHA1: 2af1a459a7c44edb005dd7285d115ab336c04b44
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./debian/copyright
+SPDXID: SPDXRef-b853c59d0ee8d8a009171fdbbcbeaaf9
+FileChecksum: SHA1: dd36b07c82d1f7909cbbf540eec36eec1a018472
+LicenseConcluded: NOASSERTION
+FileCopyrightText: <text>Copyright (C) 2012 Willow Garage, Inc.</text>
+
+FileName: ./debian/rules
+SPDXID: SPDXRef-f5bb81d757ccd68f20699174efee17d6
+FileChecksum: SHA1: 14f78ff698f0d7b8435b8527fa80b75b6872ab9e
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./debian/source/format
+SPDXID: SPDXRef-1fbc8956c9790ccb9eb02597eccb6e10
+FileChecksum: SHA1: 1064dc0ce263680c076a1005f35ec906a5cf5a32
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./debian/source/options
+SPDXID: SPDXRef-c9f406e738d02a268e58d8aaf4efa010
+FileChecksum: SHA1: 7bf10e05cfa897cd5f5cf5bd0b632e06cde0ec2b
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./docs/index.html
+SPDXID: SPDXRef-5512987d49799d9065f74056fb6439f3
+FileChecksum: SHA1: b6b48df1b7ab1ab5f5a9525c1e8e0ab84c572f16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text>Copyright (C) 2012 Willow Garage, Inc.<br>
+SPDX-FileCopyrightText: 2012 Willow Garage, Inc.<br></text>
+
+FileName: ./docs/lint_report.txt
+SPDXID: SPDXRef-1b6162ba78bb4054745213677ac0f82d
+FileChecksum: SHA1: 9655255653b68880bd57b5cd99426159186a867a
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./setup.cfg
+SPDXID: SPDXRef-8da4db96327b0f1db334fa68099be51f
+FileChecksum: SHA1: e3d0ec2eab543d1460fc44e5cb6f9dcc0fbd2796
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./setup.py
+SPDXID: SPDXRef-954a09ac52358616219f61d765e5c3da
+FileChecksum: SHA1: b6269378992bfde2329aa31277e8f34e3db5db69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text>SPDX-FileCopyrightText: 2012 Willow Garage, Inc.</text>
+
+FileName: ./src/catkin_pkg/__init__.py
+SPDXID: SPDXRef-6ba6c25400229330d72dbc4c4471c4bf
+FileChecksum: SHA1: 96bbc92103dff505675e86325764e753ab808340
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text>SPDX-FileCopyrightText: 2012 Willow Garage, Inc.</text>
+
+FileName: ./src/catkin_pkg/changelog.py
+SPDXID: SPDXRef-cf038ad874d6b5cc134b7800a5fe4e23
+FileChecksum: SHA1: b62149647aba5a34bd6356d7c7fa6ced97bc6a0f
+LicenseConcluded: NOASSERTION
+FileCopyrightText: <text>Copyright (C) 2013 Open Source Robotics Foundation, Inc.</text>
+
+FileName: ./src/catkin_pkg/changelog_generator.py
+SPDXID: SPDXRef-3f60b1623786c566df26e6a36f971011
+FileChecksum: SHA1: dad75cee60cb54bee6458c480b7edcd411232fc5
+LicenseConcluded: NOASSERTION
+FileCopyrightText: <text>Copyright (C) 2013 Open Source Robotics Foundation, Inc.</text>
+
+FileName: ./src/catkin_pkg/changelog_generator_vcs.py
+SPDXID: SPDXRef-96af245379f3ee4f24fdf7416a6b2b33
+FileChecksum: SHA1: 6db9f42975ae086038cff0a7110b2517c9a02f03
+LicenseConcluded: NOASSERTION
+FileCopyrightText: <text>Copyright (C) 2013 Open Source Robotics Foundation, Inc.</text>
+
+FileName: ./src/catkin_pkg/cli/create_pkg.py
+SPDXID: SPDXRef-8debad4501ae24ea569bc5ec12cc0e24
+FileChecksum: SHA1: 079f50f60809bba76912710447e4c789f304ff5e
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./src/catkin_pkg/cli/find_pkg.py
+SPDXID: SPDXRef-60e1274d59cf20b586ac04ae484de8d4
+FileChecksum: SHA1: 7dabc7fc32b85dde5a1cc7bf96448452f1e9ec23
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./src/catkin_pkg/cli/generate_changelog.py
+SPDXID: SPDXRef-07a5962dc63635caa91187af59b53e9c
+FileChecksum: SHA1: 3cbb2a497a31baf3d5919d7c4a6efe263701ee4c
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./src/catkin_pkg/cli/package_version.py
+SPDXID: SPDXRef-86ab91abd37e0aeb628d083cbd5c68da
+FileChecksum: SHA1: 1b875f70bda75fd5cd9e4df65506262e3e970bc7
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./src/catkin_pkg/cli/prepare_release.py
+SPDXID: SPDXRef-5bbc823d180d822d54192e8ac78284bd
+FileChecksum: SHA1: 40f2e1bb2e331d4447ec21c8369d16b353601582
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./src/catkin_pkg/cli/tag_changelog.py
+SPDXID: SPDXRef-0066a21653c3770e151fc5634afc7631
+FileChecksum: SHA1: 527634be4d543e03c9242d2f58516e9afb91b82c
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./src/catkin_pkg/cli/test_changelog.py
+SPDXID: SPDXRef-11915c64a5bdb22d07a6fd918fd4cd4b
+FileChecksum: SHA1: 3c37b8593b127bcb3d0b7c220fc7d2d5a4484f2c
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./src/catkin_pkg/cmake.py
+SPDXID: SPDXRef-6d91b3e3c8eca1c0a8f52afa1f91b7b2
+FileChecksum: SHA1: 50e65a568608a4df1fdaa73bbd445aeae44582a3
+LicenseConcluded: NOASSERTION
+FileCopyrightText: <text>Copyright (C) 2013 Open Source Robotics Foundation, Inc.</text>
+
+FileName: ./src/catkin_pkg/condition.py
+SPDXID: SPDXRef-9f1362abe37743013468ff82e8b3d44d
+FileChecksum: SHA1: 05644b1df2aeb964e634bc8dd3ab842a9dbfcf60
+LicenseConcluded: NOASSERTION
+FileCopyrightText: <text>Copyright 2017 Open Source Robotics Foundation, Inc.</text>
+
+FileName: ./src/catkin_pkg/group_dependency.py
+SPDXID: SPDXRef-a17ab03eff3679ad4a5fd0a2ee95e3d8
+FileChecksum: SHA1: a1e4f819dd39a6cf21345994247682a2e57a274c
+LicenseConcluded: NOASSERTION
+FileCopyrightText: <text>Copyright 2017 Open Source Robotics Foundation, Inc.</text>
+
+FileName: ./src/catkin_pkg/group_membership.py
+SPDXID: SPDXRef-2d6283475df84655630fe3c32d9bb6af
+FileChecksum: SHA1: 5fc22a80fdbb9eff2753dbf474082a73989dbee7
+LicenseConcluded: NOASSERTION
+FileCopyrightText: <text>Copyright 2017 Open Source Robotics Foundation, Inc.</text>
+
+FileName: ./src/catkin_pkg/metapackage.py
+SPDXID: SPDXRef-ba0b225858b17cd3556e4957ad4e78a4
+FileChecksum: SHA1: 512bba7978e2acb1d8d800d9a9ad4005bae38f34
+LicenseConcluded: NOASSERTION
+FileCopyrightText: <text>Copyright (C) 2013 Open Source Robotics Foundation, Inc.</text>
+
+FileName: ./src/catkin_pkg/package.py
+SPDXID: SPDXRef-2a1b4c4f1ffa41a6ec186b9a80088894
+FileChecksum: SHA1: f641980dc701fa57990f6d72c7bfca28ae5fce64
+LicenseConcluded: NOASSERTION
+FileCopyrightText: <text>Copyright (C) 2012 Willow Garage, Inc.</text>
+
+FileName: ./src/catkin_pkg/package_templates.py
+SPDXID: SPDXRef-30d6ca6a527b8bbb7c22bfd38276febf
+FileChecksum: SHA1: a5918891bd76a5a7cb2ee29eb28fd621a2029c60
+LicenseConcluded: NOASSERTION
+FileCopyrightText: <text>Copyright (C) 2012 Willow Garage, Inc.</text>
+
+FileName: ./src/catkin_pkg/package_version.py
+SPDXID: SPDXRef-a0e2faf263a4d60c8a3d5a83e88c4e0d
+FileChecksum: SHA1: 2c8e72b510e7664aff8dcc6d4edc6017f32118ac
+LicenseConcluded: NOASSERTION
+FileCopyrightText: <text>Copyright (C) 2012 Willow Garage, Inc.
+Copyright (C) 2013 Open Source Robotics Foundation, Inc.</text>
+
+FileName: ./src/catkin_pkg/packages.py
+SPDXID: SPDXRef-15bc1c955beccdfb0cc3c38f4f26b84f
+FileChecksum: SHA1: ef1185e0ef5a128f847015b2d625b75dcda4da41
+LicenseConcluded: NOASSERTION
+FileCopyrightText: <text>Copyright (C) 2012 Willow Garage, Inc.</text>
+
+FileName: ./src/catkin_pkg/python_setup.py
+SPDXID: SPDXRef-1fc8bb2c69fefe4a3dc1872a771c4316
+FileChecksum: SHA1: bbc13d8fb801b6a1c1a09bd5364f85f7b3462014
+LicenseConcluded: NOASSERTION
+FileCopyrightText: <text>Copyright (C) 2012 Willow Garage, Inc.</text>
+
+FileName: ./src/catkin_pkg/rospack.py
+SPDXID: SPDXRef-d700ee06b426ad05383aa81e70f0fc10
+FileChecksum: SHA1: 3f18518665a6a5db17b2d720c177a88d499729ce
+LicenseConcluded: NOASSERTION
+FileCopyrightText: <text>Copyright (C) 2012 Willow Garage, Inc.</text>
+
+FileName: ./src/catkin_pkg/templates/CMakeLists.txt.in
+SPDXID: SPDXRef-740402eb2ca9e76d949d97ac1325cdc2
+FileChecksum: SHA1: b844d56fd9da2c3af96f2e7407520d97f4f255bf
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./src/catkin_pkg/templates/metapackage.cmake.in
+SPDXID: SPDXRef-32a5595ba251e917d55bb256109e1e22
+FileChecksum: SHA1: 5ece125f553ecda1a256e8a24989c9c3e951e67e
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./src/catkin_pkg/templates/package.xml.in
+SPDXID: SPDXRef-7b12a1180876e5cf25f600cfb579bd4c
+FileChecksum: SHA1: 3be28c1e61fd20b1e61b67f72f96b6dee1e5fd59
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./src/catkin_pkg/terminal_color.py
+SPDXID: SPDXRef-4b3577e927b209b0a89fea696d3f358e
+FileChecksum: SHA1: d907464b5b7fd79dd8507411e1d65dafbdab9782
+LicenseConcluded: NOASSERTION
+FileCopyrightText: <text>Copyright (C) 2012 Willow Garage, Inc.</text>
+
+FileName: ./src/catkin_pkg/tool_detection.py
+SPDXID: SPDXRef-efd41a34b45ddd127f0a3f81e7b7bd10
+FileChecksum: SHA1: d592f3544edd7f24f027ce8a6a8d2e6166fa2bdd
+LicenseConcluded: NOASSERTION
+FileCopyrightText: <text>Copyright (C) 2015 Open Source Robotics Foundation, Inc.</text>
+
+FileName: ./src/catkin_pkg/topological_order.py
+SPDXID: SPDXRef-1aba29683c636303bf560185662d76ad
+FileChecksum: SHA1: e8aa2a417f4ee29741455e71bfa2cf0f13162112
+LicenseConcluded: NOASSERTION
+FileCopyrightText: <text>Copyright (C) 2012 Willow Garage, Inc.</text>
+
+FileName: ./src/catkin_pkg/workspace_vcs.py
+SPDXID: SPDXRef-5f27946e3f57b9f006c4ca4086b22d6b
+FileChecksum: SHA1: 3e8c0bcd7f7de8d77006e0805ab66c6c93348c32
+LicenseConcluded: NOASSERTION
+FileCopyrightText: <text>Copyright (C) 2012 Willow Garage, Inc.</text>
+
+FileName: ./src/catkin_pkg/workspaces.py
+SPDXID: SPDXRef-b56ede1e6355482ebbd6e22cd04f7e4e
+FileChecksum: SHA1: 03888ba4d25afde6ee705de0b9a2457cbf618b8b
+LicenseConcluded: NOASSERTION
+FileCopyrightText: <text>Copyright (C) 2012 Willow Garage, Inc.</text>
+
+FileName: ./src/catkin_pkg_modules.egg-info/PKG-INFO
+SPDXID: SPDXRef-c019398a80d575ecfb70a57c67198261
+FileChecksum: SHA1: 4dc2d2ca77ede7561be4baf76b3c8494fc0e6b3b
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./src/catkin_pkg_modules.egg-info/SOURCES.txt
+SPDXID: SPDXRef-735434d6701fa475c1c72b2699f2c76e
+FileChecksum: SHA1: 4528638f671bf97e057caab5d36d0f5e08b245b6
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./src/catkin_pkg_modules.egg-info/dependency_links.txt
+SPDXID: SPDXRef-a8522e24eb647998ed9399349e7b0099
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./src/catkin_pkg_modules.egg-info/requires.txt
+SPDXID: SPDXRef-8741b1b1e797321c855c9c687cb0e9d5
+FileChecksum: SHA1: 1dcdcccf4978c70b7c637daf6078f9316e1ee82e
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./src/catkin_pkg_modules.egg-info/top_level.txt
+SPDXID: SPDXRef-92eacd912157797ddff591f9623eeaec
+FileChecksum: SHA1: c6b6e44e45839286d2c85a1425f3db45a8a610e3
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./test/test_catkin_create_pkg.py
+SPDXID: SPDXRef-dd8f19c156a58f41ff7771452034515e
+FileChecksum: SHA1: 4e21f6987e04a67d3f2a54a48623c89ad93b6795
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./test/test_changelog.py
+SPDXID: SPDXRef-cc3e826db8ac3e521cde408402fd56ee
+FileChecksum: SHA1: 7ded1e1ab26993726a3deff5216dfd90a076d6aa
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./test/test_flake8.py
+SPDXID: SPDXRef-14c83f541474fc4c4a1cac2f6f2f82b4
+FileChecksum: SHA1: a7979d7f1fa5f62613fbf4af66e7a0b5d68d7d78
+LicenseConcluded: NOASSERTION
+FileCopyrightText: <text>Copyright 2018 Open Source Robotics Foundation, Inc.</text>
+
+FileName: ./test/test_metapackage.py
+SPDXID: SPDXRef-6188ec4ebc8e6ca52c3e5bc7e1a1d0c5
+FileChecksum: SHA1: 81ab7e6984d77f77c1dcdbd6da7ad85f50039984
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./test/test_package.py
+SPDXID: SPDXRef-34d9a1d4cd0edfd341559930d01f2aa2
+FileChecksum: SHA1: 13eeb0b948cf2f0c6be35087c8468e16bdb33719
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./test/test_package_version.py
+SPDXID: SPDXRef-309d6c208344cfc7cc4d2ce5e1790305
+FileChecksum: SHA1: 9c42be63c9e42ea397707a86bb714b25491a3a04
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./test/test_packages.py
+SPDXID: SPDXRef-a213f55bfbfb426b4c4ad74fbb886d52
+FileChecksum: SHA1: bd08250537e4666a352990558b5f68454046854f
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./test/test_tag_changelog.py
+SPDXID: SPDXRef-b9faf537e3e7f18a2f0c827ef9150e0e
+FileChecksum: SHA1: 0c61e7cbd7bb605f28a382bc6a2155ca739d829c
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./test/test_templates.py
+SPDXID: SPDXRef-df6a331aaaef8b268411601510269d83
+FileChecksum: SHA1: 38d746b7d921c36e9f5da55fee87bbb51d32132d
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./test/test_terminal_color.py
+SPDXID: SPDXRef-f08fda9fb09c164d3eaf94ef67c9e5a4
+FileChecksum: SHA1: cf4707255928546428490bc0942cbf68f65680dc
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./test/test_tool_detection.py
+SPDXID: SPDXRef-ae6baeebf9e33a865d9ebf7998422cb1
+FileChecksum: SHA1: dbcda4586207a6d6203fed013b84ae497e2a59ba
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./test/test_topological_order.py
+SPDXID: SPDXRef-1af7cfa9086884cc69754afecc6aeb30
+FileChecksum: SHA1: f6009026035301fc38042a99bfde3c8f388744ef
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
+FileName: ./test/test_workspaces.py
+SPDXID: SPDXRef-094e8f216dec85b82f8cca5a94cd906e
+FileChecksum: SHA1: 84eb4a2a761991d3bb07732517d9e1ed82741e68
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NONE
+
